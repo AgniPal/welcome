@@ -3,3 +3,5 @@ import tkinter as tk
 def user_names():
     user_name = entry.get()
     Label.config(text=f"Привет, {user_name}!")
+
+# далее будет сохдание окна и кнопок
